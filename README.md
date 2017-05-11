@@ -1,4 +1,4 @@
-wakumo group recurit information
+Recurit information of wakumo
 =======
 
 * [Open Positions](https://github.com/wakumo/recruit/issues)
