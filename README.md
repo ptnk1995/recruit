@@ -21,5 +21,5 @@ wakumo group recurit information
 ### Contact
 
 https://wakumo.vn/
-Please sent your CV to recruit@wakumo.com
 
+Please sent your CV to recruit@wakumo.com
