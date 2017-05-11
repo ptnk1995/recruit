@@ -17,3 +17,9 @@ wakumo group recurit information
 * 100% social and medical insurance
 * 14th-month salary
 * 12 days annual leaves
+
+### Contact
+
+https://wakumo.vn/
+Please sent your CV to recruit@wakumo.com
+
