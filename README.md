@@ -8,6 +8,10 @@ wakumo group recurit information
 > `[Company Name] - [Job Title] - [Location] - [Job Type]`
 
 
+### Requirements
+
+* No Smorking
+
 ### Benefits for All full-time employees
 
 * 100% social and medical insurance
